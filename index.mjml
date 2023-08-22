@@ -1,0 +1,251 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      * {
+        box-sizing: border-box;
+      }
+    </mj-style>
+    <mj-style inline="inline">
+
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#8e8e8e">
+    <mj-raw>
+      <!-- start of main img -->
+    </mj-raw>
+    <mj-section padding="10px 0 0 0">
+      <mj-column padding="0">
+        <mj-image href="#" alt="main-img" src="./Components/main-img.jpeg" padding="0" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of main img -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of main message -->
+    </mj-raw>
+    <mj-section background-color="#0856a5" padding-top="15px">
+      <mj-column>
+        <mj-text align="left" color="#FFFFFF" font-size="25px" font-weight="400" padding-top="0" padding-bottom="5px">
+          Revitalize your skin, unleash your glow
+        </mj-text>
+        <mj-text align="left" color="#FFFFFF" font-size="12px" font-weight="300" line-height="1.5" padding-top="8px" padding-bottom="0">
+          Indulge in the ultimate experience and unlock the radient potential of your skin. Our team of skilled estheticians
+          will guide you through the selection process, ensuring you find the treatment that works best for you.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of main message -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of different treatments section / first row -->
+    </mj-raw>
+    <mj-section background-color="#cbd8e1" padding-top="25px" padding-bottom="15px">
+      <mj-column width="33%" padding-bottom="25px">
+        <mj-image href="#" alt="hydrafacial-img" src="./Components/hydrafacial-img.png" height="150px" width="190px" padding="10px" />
+        <mj-text padding-top="15px" padding-bottom="5px" padding-left="35px" align="left" color="#0856a5" font-size="19px" font-weight="400" letter-spacing=".7px">
+          HydraFacial<span style="font-size: 10px; position: relative; bottom: 9px;">&reg;</span>
+        </mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" padding-left="35px" align="left" color="#0856a5" font-size="12px" font-weight="400" line-height="16px">
+          Patented technology to cleanse, extract, and hydrate your skin in a 3-step, 30 minute process that will improve
+          your appearance.
+        </mj-text>
+        <mj-text padding-top="12px" align="right">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">Learn More</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="33%" padding-bottom="25px">
+        <mj-image href="#" alt="chemical-peel-img" src="./Components/chemicalpeel-img.png" height="150px" width="190px" padding="10px" />
+        <mj-text padding-top="15px" padding-bottom="5px" padding-left="35px" align="left" color="#0856a5" font-size="19px" font-weight="400" letter-spacing=".7px">
+          Chemical Peels
+        </mj-text>
+        <mj-text padding-top="3px" padding-bottom="0" padding-left="35px" align="left" color="#0856a5" font-size="12px" font-weight="400" line-height="16px">
+          Improve the appearance of your skin on the face, neck or hands. A chemical solution is used to exfoliate and peel off.
+        </mj-text>
+        <mj-text padding-top="12px" align="right">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">Learn More</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="33%" padding-bottom="25px">
+        <mj-image href="#" alt="dermaplan-img" src="./Components/dermaplan-img.png" height="150px" width="190px" padding="10px" />
+        <mj-text padding-top="15px" padding-bottom="5px" padding-left="35px" align="left" color="#0856a5" font-size="19px" font-weight="400" letter-spacing=".7px">
+          Dermaplaning
+        </mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" padding-left="35px" align="left" color="#0856a5" font-size="12px" font-weight="400" line-height="16px">
+          Highly effective physical exfoliation procedure that removes the top-most layer of dead skin along
+          with fine vellus hair (aka peach fuzz).
+        </mj-text>
+        <mj-text padding-top="12px" align="right">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">Learn More</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of different treatments section / first row -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of different treatments section / second row -->
+    </mj-raw>
+    <mj-section background-color="#cbd8e1" padding-top="0" padding-bottom="5px">
+      <mj-column width="33%" padding-bottom="25px">
+        <mj-image href="#" alt="fire&ice-img" src="./Components/fire-ice-img.png" height="150px" width="190px" padding="10px" />
+        <mj-text padding-top="15px" padding-bottom="5px" padding-left="35px" align="left" color="#0856a5" font-size="19px" font-weight="400" letter-spacing=".7px">
+          Fire & Ice Facial
+        </mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" padding-left="35px" align="left" color="#0856a5" font-size="12px" font-weight="400" line-height="16px">
+          Intense clinical treatment designed to rapidly and safetly resurface the skin, diminishing the appearance of fine lines and
+          wrinkles.
+        </mj-text>
+        <mj-text padding-top="12px" align="right">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">Learn More</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="33%" padding-bottom="25px">
+        <mj-image href="#" alt="microneedl&prp-img" src="./Components/microneedl-prp-img.png" height="150px" width="190px" padding="10px" />
+        <mj-text padding-top="15px" padding-bottom="5px" padding-left="35px" align="left" color="#0856a5" font-size="19px" font-weight="400" letter-spacing=".7px">
+          Microneedling & PRP
+        </mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" padding-left="35px" align="left" color="#0856a5" font-size="12px" font-weight="400" line-height="16px">
+          Tiny needles pierce the skin allowing new collagen to grow. This procedure uses your skin's natural healing ability to
+          reduce fine lines and scars.
+        </mj-text>
+        <mj-text padding-top="12px" align="right">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">Learn More</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="33%" padding-bottom="25px">
+        <mj-image href="#" alt="microdemabra-img" src="./Components/microdermabra-img.png" height="150px" width="190px" padding="10px" />
+        <mj-text padding-top="15px" padding-bottom="5px" padding-left="35px" align="left" color="#0856a5" font-size="19px" font-weight="400" letter-spacing=".7px">
+          Micro Dermabrasion
+        </mj-text>
+        <mj-text padding-top="5px" padding-bottom="0" padding-left="35px" align="left" color="#0856a5" font-size="12px" font-weight="400" line-height="16px">
+          Non-invasive procedure that uses tiny crystals to exfoliate and remove the superficial layer of dry, dead skin cells. Treat
+          uneven pigmentation and clogged pores.
+        </mj-text>
+        <mj-text padding-top="12px" align="right">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">Learn More</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of different treatments section / second row -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of request an appointment today section -->
+    </mj-raw>
+    <mj-section background-color="#0856a5">
+      <mj-column>
+        <mj-text align="center" color="#FFFFFF" font-size="25px" font-weight="400" padding-top="20px" padding-bottom="5px" text-transform="uppercase" letter-spacing="3.5px" line-height="30px">
+          We're here to help you pursue your most beautiful you.
+        </mj-text>
+        <mj-text align="center" color="#FFFFFF" font-size="25px" font-weight="400" padding-top="15px" padding-bottom="20px" text-transform="capitalize">
+          <a href="#" style="text-decoration: none; color: #cbd8e1;">Request an apointment today.</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of request an appointment today section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of variety of chemical peels section -->
+    </mj-raw>
+    <mj-section background-color="#cbd8e1" padding="30px 5px" direction="ltr">
+      <mj-column width="40%">
+        <mj-text align="left" color="#0856a5" font-size="25px" font-weight="500" letter-spacing=".5px" padding-bottom="5px">
+          PCA Skin Peels
+        </mj-text>
+        <mj-text align="left" color="#0856a5" font-size="12px" font-weight="400" padding-top="10px" line-height="18px" padding-bottom="5px">
+          Exfoliate dead skin cells and help healthy skin cells rise to the surface. These treatments allow
+          deeper layers of fresh and untouched skin to be revealed.
+        </mj-text>
+        <mj-text padding-top="10px" align="left">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">More Details</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-image alt="pca-model-image" href="#" src="./Components/model-1.png" padding-top="0" height="175px" width="290px" border-radius="50%" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#cbd8e1">
+      <mj-column padding="0">
+        <mj-divider border-width="1px" border-style="solid" border-color="#0856a5" padding-top="0" />
+        </mj-coulmn>
+    </mj-section>
+    <mj-section background-color="#cbd8e1" padding="30px 5px" direction="rtl">
+      <mj-column width="40%">
+        <mj-text align="left" color="#0856a5" font-size="25px" font-weight="500" letter-spacing=".5px" padding-bottom="5px">
+          ViPeel
+        </mj-text>
+        <mj-text align="left" color="#0856a5" font-size="12px" font-weight="400" padding-top="10px" line-height="18px" padding-bottom="5px">
+          The unique blend of ingredients in these peels produce powerful results with no pain, no skin preparation
+          and very little downtime. It can treat hyperpigmentation and melasma, reverse sun damage and signs of aging.
+        </mj-text>
+        <mj-text padding-top="10px" align="left">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">More Details</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-image alt="vipeels-image" href="#" src="./Components/model-2.png" padding-top="35px" height="185px" width="230px" border-radius="50%" />
+      </mj-column>
+    </mj-section>
+    <mj-section padding="0" background-color="#cbd8e1">
+      <mj-column padding="0">
+        <mj-divider border-width="1px" border-style="solid" border-color="#0856a5" padding-top="0" />
+        </mj-coulmn>
+    </mj-section>
+    <mj-section background-color="#cbd8e1" padding="30px 5px" direction="ltr">
+      <mj-column width="40%">
+        <mj-text align="left" color="#0856a5" font-size="25px" font-weight="500" letter-spacing=".5px" padding-bottom="5px">
+          ZO Stimulator Peel
+        </mj-text>
+        <mj-text align="left" color="#0856a5" font-size="12px" font-weight="400" padding-top="10px" line-height="18px" padding-bottom="5px">
+          This celebrity-loved treatment is a favorite before big events and is often known as the 'lunchtime peel.' - The result
+          is a glowing, rejuvenated complexion with no downtime required.
+        </mj-text>
+        <mj-text padding-top="10px" align="left">
+          <a href="#" style="color: #0856a5; letter-spacing: .9px; font-size: 13px;">More Details</a>
+        </mj-text>
+      </mj-column>
+      <mj-column width="60%">
+        <mj-image alt="vipeels-image" href="#" src="./Components/model-3.png" padding-top="35px" height="185px" width="195px" border-radius="50%" />
+      </mj-column>
+    </mj-section>
+    <mj-raw>
+      <!-- end of variety of chemical peels section -->
+    </mj-raw>
+    <mj-raw>
+      <!-- start of footer -->
+    </mj-raw>
+    <mj-section background-color="#818181" padding-bottom="2px">
+      <mj-column>
+        <mj-image alt="footer-logo" href="#" align="center" src="./Components/footer-logo-img.PNG" height="100px" width="280px" padding-top="25px" padding-bottom="10px" />
+        <mj-text align="center" padding-top="5px" font-size="12px" font-weight="500" padding-bottom="5px" line-height="18px">
+          &copy 2023 <a href="#" style="text-decoration: none; color: black;">Anne Arundel Dermatology</a> | All Rights Reserved. | <a href="#" style="text-decoration: none; color: black;">Stay Connected</a> | <a href="#" style="text-decoration: none; color: black;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#818181" padding-top="10px" padding-bottom="5px">
+      <mj-group>
+        <mj-column width="50%" padding="0">
+          <mj-image alt="facebook-logo" href="#" align="right" src="./Components/facebook-logo.png" height="35px" width="35px" />
+        </mj-column>
+        <mj-column width="50%" padding="0">
+          <mj-image alt="instagram-logo" href="#" align="left" src="./Components/ig-logo.png" height="35px" width="35px" />
+        </mj-column>
+        </mj-goup>
+    </mj-section>
+    <mj-section background-color="#818181" padding-top="0" padding-bottom="50px">
+      <mj-column>
+        <mj-text font-size="12px" line-height="18px" font-weight="400" align="center" padding="0 65px">
+          This email is not designed to and does not provide medical advice, professional diagnosis,
+          opinin, treatment or services to you or any other individual. Though this email and linkages to other sites,
+          Anne Arundel Dermatology, P.A. provides general information for educational purposes only. The information provided in this email,
+          or through linkages to other sites, is not a substitute for medical or professional care, and you should not use the information in place of a visit,
+          call consultation or the advice of your physician or other healthcare provider. Anne Arundel Dermatology, P.A. is not liable or responsible for any advice,
+          course of treatment, diagnosis or any other information, services or product you obtain through this email.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
